@@ -40,7 +40,7 @@ if (String1[0] === "a" && String1.length > 3) {
 */
 
 /*
-let String1 = "1ameen";
+let String1 = "1ameenkhan";
 
 if (String1[0] === "a" && String1.length > 3) {
   console.log("good string ");
